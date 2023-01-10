@@ -28,7 +28,7 @@ All the words in s are separated by a single space.
 
 def wordPattern(pattern: str, s: str) -> bool:
     """
-    Fanction, which takes pattern and s 
+    Function, which takes pattern and s 
     and check if s follows the pattern
     """
     pattern = list(pattern)
