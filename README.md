@@ -13,3 +13,7 @@ They are written to make possible to check how they work throw series of inputs 
 * Description: [Leetcode - 2469. Convert the Temperature (Easy)](https://leetcode.com/problems/convert-the-temperature/)
   
   Solution: [2469. Convert the Temperature (Easy)](https://github.com/OpheliaGeek/LeetCode-Solutions/blob/main/2469_convert_the_temperature.py)
+  
+* Description: [Leetcode - 290. Word Pattern (Easy)](https://leetcode.com/problems/word-pattern/description/)
+  
+  Solution: [290. Word Pattern (Easy)](https://github.com/OpheliaGeek/LeetCode-Solutions/blob/main/290_word%20_pattern.py)
