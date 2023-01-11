@@ -17,3 +17,7 @@ They are written to make possible to check how they work throw series of inputs 
 * Description: [Leetcode - 290. Word Pattern (Easy)](https://leetcode.com/problems/word-pattern/description/)
   
   Solution: [290. Word Pattern (Easy)](https://github.com/OpheliaGeek/LeetCode-Solutions/blob/main/290_word%20_pattern.py)
+
+* Description: [Leetcode - 66. Plus One (Easy)](https://leetcode.com/problems/plus-one/description/)
+  
+  Solution: [66. Plus One (Easy)](https://github.com/OpheliaGeek/LeetCode-Solutions/blob/main/66_plus_one.py)
